@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quickshop/static/css/main.dc44857f.chunk.css",
+    "main.js": "/quickshop/static/js/main.0f261d14.chunk.js",
+    "main.js.map": "/quickshop/static/js/main.0f261d14.chunk.js.map",
+    "runtime~main.js": "/quickshop/static/js/runtime~main.57aa9673.js",
+    "runtime~main.js.map": "/quickshop/static/js/runtime~main.57aa9673.js.map",
+    "static/js/2.77f90bf7.chunk.js": "/quickshop/static/js/2.77f90bf7.chunk.js",
+    "static/js/2.77f90bf7.chunk.js.map": "/quickshop/static/js/2.77f90bf7.chunk.js.map",
+    "index.html": "/quickshop/index.html",
+    "precache-manifest.dded3af1091d463537e2b190f82b563e.js": "/quickshop/precache-manifest.dded3af1091d463537e2b190f82b563e.js",
+    "service-worker.js": "/quickshop/service-worker.js",
+    "static/css/main.dc44857f.chunk.css.map": "/quickshop/static/css/main.dc44857f.chunk.css.map"
+  }
+}

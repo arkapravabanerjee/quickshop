@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quickshop/static/css/main.6f271098.chunk.css",
-    "main.js": "/quickshop/static/js/main.0fb77ae5.chunk.js",
-    "main.js.map": "/quickshop/static/js/main.0fb77ae5.chunk.js.map",
+    "main.js": "/quickshop/static/js/main.2cc777d0.chunk.js",
+    "main.js.map": "/quickshop/static/js/main.2cc777d0.chunk.js.map",
     "runtime~main.js": "/quickshop/static/js/runtime~main.57aa9673.js",
     "runtime~main.js.map": "/quickshop/static/js/runtime~main.57aa9673.js.map",
     "static/js/2.328f541d.chunk.js": "/quickshop/static/js/2.328f541d.chunk.js",
     "static/js/2.328f541d.chunk.js.map": "/quickshop/static/js/2.328f541d.chunk.js.map",
     "index.html": "/quickshop/index.html",
-    "precache-manifest.723fb75d95511ef5e1b79f728bb0a9f7.js": "/quickshop/precache-manifest.723fb75d95511ef5e1b79f728bb0a9f7.js",
+    "precache-manifest.29c0c6c494f2a2fa56cb7ec4c6432088.js": "/quickshop/precache-manifest.29c0c6c494f2a2fa56cb7ec4c6432088.js",
     "service-worker.js": "/quickshop/service-worker.js",
     "static/css/main.6f271098.chunk.css.map": "/quickshop/static/css/main.6f271098.chunk.css.map"
   }
